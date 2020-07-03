@@ -216,6 +216,25 @@
           null
         ]
       },
+      "/Users/erichale/turing/2module/adopt_dont_shop_2005/spec/features/user_can_see_all_shelters_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/erichale/turing/2module/adopt_dont_shop_2005/app/models/shelter.rb": {
         "lines": [
           1,
@@ -246,6 +265,6 @@
         ]
       }
     },
-    "timestamp": 1593808650
+    "timestamp": 1593811287
   }
 }
